@@ -1,1 +1,92 @@
-# jbhl1985.github.io
+<!doctype html>
+<html>
+<head>
+    <h1><center><strong>Temas para la vida.</strong></center></h1>
+
+    <title>Dinora Alt. Luna</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    body {
+        background-color: #f0f0f2;
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue",
+Helvetica, Arial, sans-serif;
+
+    }
+    div {
+        width: 600px;
+        margin: 5em auto;
+        padding: 2em;
+        background-color: #fdfdff;
+        border-radius: 0.5em;
+        box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+    }
+    a:link, a:visited {
+        color: #38488f;
+        text-decoration: none;
+    }
+    @media (max-width: 700px) {
+        div {
+            margin: 0 auto;
+            width: auto;
+        }
+    }
+    </style>
+</head>
+<body>
+<div>
+    <img src="https://media.istockphoto.com/id/1313246059/es/foto/conferencia-en-l%C3%ADnea-de-diversos-empleados-en-la-pantalla.jpg?s=1024x1024&w=is&k=20&c=Yu7t11IR6X_TH3gsAFjD1am9iKA0k63eq9ncXF5QX_U=" style="float: left; width: 100%;"><br>
+    <h1><strong>Objetividad y subjetividad</strong></h1>
+    <p>SANTIAGO, Rep. Dom.
+	<br>Dinorah Altagracia Luna</br>
+	<br>
+	La objetividad es cuando se puede decir con seguridad que se ve o toca algo. Cuando una persona es objetiva puede decir que posee una virtud que ayuda al crecimiento personal y contribuye a la valoración de los demás. De igual modo cuando se practica la objetividad se le hace honor a la verdad. Nunca habrá injusticia si se dicen las cosas claras y se toman los hechos como en verdad acontecen.
+	<br>
+	<br>
+	Ser objetivo es cuando se hacen juicios de valores confiables, cuando somos capaces de decir la verdad aunque nos afecte de alguna u otra manera o influya negativamente en las vidas de otros. Con la objetividad contribuimos a los valores y principios que son tan importantes en el desarrollo del individuo y la sociedad. 
+	<br>
+	<br>
+	Precisamente en los momentos actuales es que más se necesitan personas que actúen con objetividad porque la sociedad está viviendo momentos de inseguridad, muchas veces ni se sabe cuándo hay verdad en lo que se ve y se escucha. La sociedad, lamentablemente esta cada día más complicada y con numerosos problemas que si primara la objetividad existiera una sociedad mejor y por ende individuos más preparados para hacer frente a los cambios que son inevitables en el mundo actual.
+	<br><br>
+	<b>Diferencias entre objetividad y subjetividad</b>
+	<br>
+	<p>La objetividad está basada en ausencia de prejuicios e intereses personales. Mientras la subjetividad está basada en punto de vista personal, influyen los intereses, deseos, sentimientos, etc. <br><br>
+	La subjetividad es todo lo contrario a la objetividad, porque no se basa en realidad, esta tiene que ver con prejuicios, parcialidad, juicios sin valor creíbles. <br><br>
+	Por poner en práctica la subjetividad se han causado daños sin darse cuenta, porque a pesar de todo somos seres humanos y seres imperfectos, se cometen por esta razón muchos errores haciendo juicios sin valor, los cuales muchas veces traicionan los sentimientos e intereses y actúan injustamente ante determinadas personas o acontecimientos.<br><br>
+	Debido a la subjetividad se dan muchas injusticias por los prejuicios que se hacen al no ponerse en práctica la realidad de las cosas, de manera clara. La subjetividad va en contra de los valores y principios porque al no haber juicios de valor no habrá credibilidad en los hechos. <br>
+	A continuación se presentan dos ejemplos de personas objetivas y personas subjetivas. <br><br>
+	Persona objetiva: Juan demostró que es el mejor del curso, nadie ha sacado las calificaciones como él. Estos ejemplos reflejan que la persona objetiva expresa las ideas tal y como son.</p>
+
+</p>
+    <p><a href="https://www.iana.org/domains/example">Para mas informacion...</a></p>
+</div>
+
+
+<div>
+    <img src="https://www.hakunamatata.com.co/wp-content/uploads/2020/06/como-hacer-un-proyecto-de-vida-min.jpg" style="float: left; width: 100%;">
+	<br>
+	<br><h1>La importancia de elaborar un proyecto de vida.</h1>
+    	<p>SANTIAGO, Rep. Dom.<br>Dinorah Altagracia Luna</br></p>
+	<br>
+	Comenzamos este artículo con el concepto de un proyecto de vida; es un plan trazado, un esquema vital que encaja en el orden de prioridades, valores y expectativas de una persona que como dueña de su destino decide cómo quiere vivir. El cual se basa en hacer una lista de todos los elementos que necesitamos para llevar a cabo lo que deseamos lograr en nuestra vida.<br><br>
+	Como individuo necesitamos organizarnos y la mejor manera es elaborando lo que es el fundamento de nuestra vida y es, precisamente, un proyecto de vida.<br><br>
+	Aunque para esto se requiere de muchos factores que intervienen positivamente o de manera negativa, pero la actitud positiva en el individuo, lo impulsa a luchar y vencer.<br><br>
+	Obstáculos que se van presentando en el camino. La decisión de lograr sus propósitos hace que, con más ahínco, nos enfrentemos a estar dispuestos a vencer retos, que se van presentando para lograrlo.<br><br>
+	Existen una serie factores que se necesitan, para que podamos tener la motivación de realización en nuestra vida, como una buena educación, el hogar, fundamentada en valores y principios tales como:<br><br>
+	Una buena preparación académica, actitud positiva, motivación y perseverancia.<br><br>
+	El medio ambiente donde se desarrolla para llevar a cabo un proyecto de vida, debemos tener un interés constante de luchar con tenacidad, con mucha disposición para lograr sus metas.<br><br>
+	Cuando nos disponemos a cambiar para mejorar y tener adecuada calidad de vida, lo hacemos con todo el esfuerzo posible. Por tal razón, debemos tener en cuenta, que las metas que nos trazamos sean alcanzables.<br><br>
+	Un ejemplo y mi motivación para escribir este artículo fue mi propia vida, sin recursos, huérfana, luché por mi superación, venciendo los retos que la vida me iba presentando.<br><br>
+
+	Me siento satisfecha con Dios, como mi protector y con todo el esfuerzo, pude realizar una gran parte de lo que deseaba para mi vida. Recordar: Que cuando se quiere, se puede.<br><br>
+	<b>Como individuos necesitamos organizarnos y la mejor manera es elaborando lo que es el fundamento de nuestra vida y es precisamente, un proyecto de vida.</b>
+
+</p>
+    <p><a href="https://www.iana.org/domains/example">Para mas informacion...</a></p>
+</div>
+
+</body>
+</html>
